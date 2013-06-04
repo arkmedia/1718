@@ -1,0 +1,59 @@
+#kraemer_collage_div {
+	background-image:url(1-Kraemer-top_collage-01.png);
+	background-size:100%;
+	text-align:center;
+	height:913px;
+	width:1080px;
+	position:absolute;
+	top:67px;
+	z-index:500;
+}
+
+#kraemer_main_div {
+	background-image:url(background_texture-beige-01.jpg);
+	position:absolute;
+	top:900px;
+	left:0px;
+	width:1080px;
+	bottom:0px;
+}
+
+#kraemer_main_spacer {
+	height:100px;
+	font-size:0px;
+}
+
+#kraemer_copy_header {
+	text-align:center;
+	font: italic 3.5em/1.5em "Caslon540", Georgia, "Times New Roman", Times, serif;
+	color: #534741;
+	margin: 50px 0;
+}
+
+#kraemer_copy_col1 {
+	float:left;
+	margin-left:108px;
+	width:400px;
+}
+
+#kraemer_copy_col2 {
+	float:left;
+	margin-left:50px;
+	width:400px;
+}
+
+
+
+#kraemer_copy_col1,
+#kraemer_copy_col2 {
+	line-height: 1.5em;
+	color: #534741;	
+}
+
+#kraemer_header_spacer {
+	height:25px;
+	font-size:0px;
+}
+
+
+

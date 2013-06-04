@@ -1,0 +1,29 @@
+.gog_page {
+	width:1080px;
+	height:1920px;
+}
+
+@font-face {
+    font-family: Caslon540;
+    src: url(/fonts/URW++-CaslonNo540D-Ita.otf);
+    font-weight:400;
+}
+
+@font-face {
+    font-family: BerlingRoman;
+    src: url(/fonts/Linotype-Berling-LT-Roman.ttf);
+    font-weight:400;
+}
+
+@font-face {
+    font-family: TradeGothic;
+    src: url(/fonts/TradeGothic-LT.ttf);
+    font-weight:400;
+}
+
+@font-face {
+    font-family: TradeGothic-Bold;
+    src: url(/fonts/TradeGothic-LT-Bold.ttf);
+    font-weight:800;
+}
+

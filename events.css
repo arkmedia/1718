@@ -1,0 +1,31 @@
+#events_bkg_div {
+	background-image: url(background_texture-beige-01.jpg);
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	bottom: 0px;
+	z-index: 200;
+}
+
+#events_main_div {
+	background-image: url(5-Special_Events-top_collage-01.png);
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	bottom: 0px;
+	z-index: 400;
+}
+
+
+#events_1col_copy {
+	width: 400px;
+	
+	position:absolute;
+	right:100px;
+	top:750px;
+	line-height: 1.5em;
+	color: #534741;	
+}
+

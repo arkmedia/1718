@@ -1,0 +1,115 @@
+#donor_list_collage_div {
+	background-image: url(2-Donor_List-top_collage-01.png);
+	background-size: 100%;
+	background-position: bottom center;
+	text-align: center;
+	height: 480px;
+	width: 1080px;
+	position: absolute;
+	top: 67px;
+	z-index: 650;
+}
+
+#donor_list_collage_text {
+	width: 800px;
+	margin: auto 135px;
+	font: normal 300 1.25em/1.5em "BerlingRoman", Georgia, "Times New Roman", Times, serif;
+	color: rgba(153, 134, 116, 0.8);
+	letter-spacing: .054em;
+	position: absolute;
+	top: 190px;
+	text-shadow: 0 -1px 2px #000000;
+}
+
+#donor_list_main_div {
+	background-image: url(background_texture-beige-01.jpg);
+	text-align: center;
+	top: 480px;
+	bottom: 0px;
+	width: 1080px;
+	position: absolute;
+	z-index: 500;
+}
+
+#donor_list_chooser_col {
+	position: absolute;
+	left: 0px;
+	width: 250px;
+	background-color: rgba(115, 99, 87, 0.2);
+	bottom: 0px;
+	border: 1px solid white;
+	border-left: none;
+	top: 0px;
+}
+
+#donor_heading_div {
+	height: 150px;
+	position: absolute;
+	background-color: rgba(115, 99, 87, 0.1);
+	z-index: 600;
+	width: 1080px;
+	border-bottom: 1px solid white;
+}
+
+#donor_heading_text {
+	position: absolute;
+	left: 0px;
+	top: 80px;
+	font-size: 30px;
+	font: italic 2.5em/1.5em "Caslon540", Georgia, "Times New Roman", Times, serif;
+	color: #736357;
+	z-index: 700;
+	width: 230px;
+	text-align: right;
+	padding-right: 20px;
+}
+
+#donor_list_chooser {
+	width: 250px;
+	text-align: right;
+	position: absolute;
+	top: 150px;
+	/*border-top:1px solid white;*/
+}
+
+.donor_list_li {
+	border-bottom: 1px solid white;
+	width: 230px;
+	height: 50px;
+	cursor: pointer;
+	padding: 20px 20px 0 0;
+	font: normal 1.25em/1.5em "TradeGothic", "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #736357;
+}
+
+.donor_list_li.selected {
+	background-color: rgba(255, 255, 255, 0.8);
+	color: #534741;
+}
+
+#donor_display {
+	position: absolute;
+	top: 150px;
+	left: 250px;
+	padding-left: 25px;
+	padding-top: 25px;
+	text-align: left;
+	height: 1223px;
+	bottom:0px;
+}
+
+.donor_indiv {
+	height: 50px;
+	font: normal 1.25em/1.5em "TradeGothic", "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #736357;
+	display:none;
+}
+
+#donor_list {
+	list-style-type:none;
+}
+
+
+.showing {
+	display:block;
+}

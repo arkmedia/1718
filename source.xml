@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<playlist>
+	<title><![CDATA[New Playlist]]></title>
+	<items>
+		<item>
+			<title><![CDATA[Caris Story]]></title>
+			<description><![CDATA[Caris Story]]></description>
+			<image>/Cari Ciriacks_poster_1080.jpg</image>
+			<startFromThis>true</startFromThis>
+			<duration>30</duration>
+			<source>Cari Ciriacks-H.264_1080.mov</source>
+			<sourceAlt>Cari Ciriacks-H.264_1080.mov</sourceAlt>						
+			<sourceType>direct</sourceType>
+		</item>		
+	</items>
+</playlist>

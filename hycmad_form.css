@@ -1,0 +1,31 @@
+#hycmad_form_div {
+	padding: 25px;
+}
+
+/*
+#virtualKeyboard {
+	background-color:gray;
+	
+}
+*/
+
+#hycmad_submit {
+	
+}
+
+#hycmad_form {
+	z-index:1000;
+	background-color:white;
+	
+}
+
+/*
+.ui-dialog-content, .ui-widget-content, .ui-dialog, .ui-widget {
+	padding:0px;
+}
+*/
+
+#validation {
+	width:100%;
+	text-align:center;
+}

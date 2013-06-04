@@ -1,0 +1,33 @@
+#container {
+	background-image:url(Cari Ciriacks_poster_1080.jpg);
+}
+#cari_collage_div {
+	/*background-image:url(1-Profile-Moser-top_collage-01.png);*/
+	background-color:transparent;
+	background-size:100%;
+	text-align:center;
+	height:600px;
+	width:1080px;
+	position:absolute;
+	top:350px;
+	z-index:500;
+}
+
+#cari_main_div {
+	background-image:url(background_texture-beige-01.jpg);
+	position:absolute;
+	top:67px;
+	left:0px;
+	width:1080px;
+	height:1290px;
+}
+
+#cari_main_spacer {
+	height:100px;
+	font-size:0px;
+}
+
+#cari_copy_header {
+	text-align:center;
+}
+

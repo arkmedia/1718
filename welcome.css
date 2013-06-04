@@ -1,0 +1,105 @@
+#gog_welcome_inner {
+	background-image:url(1-Welcome-background-01.jpg);
+	background-size:100%;
+	text-align:center;
+}
+
+.nav_list {
+	width:380px;
+	margin:auto;
+}
+
+.nav_list a {
+	font: italic 1.5em/1em "Caslon540", Georgia, "Times New Roman", Times, serif;
+	letter-spacing: .04em;
+	margin: 0 0 -2px 0;
+	padding: 0;
+	font: normal normal 1em/1.5em "BerlingRoman", "Caslon540", Georgia, "Times New Roman", Times, serif;
+}
+
+#generations {
+	margin: 0;
+	font: italic 8em/1.5em "Caslon540", Georgia, "Times New Roman", Times, serif;
+	color: #534741;
+	text-shadow:   0 -1px 0 #736357,
+	               0 -1.5px 0 #695a51,
+	               0 -2px 0 #66584f,
+	               0 -2.5px 0 #61534b,
+	               0 -3px 0 #534741,
+	               0 4px 1px rgba(0,0,0,.1),
+	               0 0 5px rgba(0,0,0,.05),
+	               0 1px 3px rgba(0,0,0,.2),
+	               0 3px 5px rgba(0,0,0,.15),
+	               0 5px 10px rgba(0,0,0,.20),
+	               0 10px 10px rgba(0,0,0,.15),
+	               0 20px 20px rgba(0,0,0,.1);
+	/*text-shadow:   0 1px 0 #473d38,
+	               0 2px 0 #453b36,
+	               0 3px 0 #362e2a,
+	               0 4px 0 #332c28,
+	               0 5px 0 #332c28,
+	               0 6px 1px rgba(0,0,0,.1),
+	               0 0 5px rgba(0,0,0,.1),
+	               0 1px 3px rgba(0,0,0,.3),
+	               0 3px 5px rgba(0,0,0,.2),
+	               0 5px 10px rgba(0,0,0,.25),
+	               0 10px 10px rgba(0,0,0,.2),
+	               0 20px 20px rgba(0,0,0,.15);*/
+	letter-spacing: .04em;
+}
+
+#of_giving {
+	margin: -50px 0 0 0;
+	font: normal normal 5em/1.5em "BerlingRoman", "Caslon540", Georgia, "Times New Roman", Times, serif;
+	color: #534741;
+	text-shadow: 0 -1px 0 #736357,
+	               0 -1.5px 0 #695a51,
+	               0 -2px 0 #66584f,
+	               0 -2.5px 0 #61534b,
+	               0 -3px 0 #534741,
+	               0 4px 1px rgba(0,0,0,.1),
+	               0 0 5px rgba(0,0,0,.05),
+	               0 1px 3px rgba(0,0,0,.2),
+	               0 3px 5px rgba(0,0,0,.15),
+	               0 5px 10px rgba(0,0,0,.20),
+	               0 10px 10px rgba(0,0,0,.15),
+	               0 20px 20px rgba(0,0,0,.1);
+	letter-spacing: .09em;
+}
+
+#header_spacer {
+	height:150px;
+	font-size:0px;
+}
+
+#spacer25 {
+	height:25px;
+	font-size:0px;
+}
+
+#opening_stmt {
+	font-weight:bold;
+}
+
+h2 {
+	line-height: 1.5em;
+}
+
+#welcome_text {
+	width: 480px;
+	line-height: 1.5em;
+	color: #534741;
+	text-align:left;
+	margin:auto;
+	padding: 150px 0 100px 0;
+}
+
+#spacer_before_copy {
+	height:200px;
+	font-size:0px;
+}
+
+#spacer_after_copy {
+	height:500px;
+	font-size:0px;
+}
